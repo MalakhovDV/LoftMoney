@@ -5,5 +5,10 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorTextHint">#DBDBDB</color>
     <color name="colorBackgroundTint">#1e000000</color>
+    <color name="textColorPrimary">#666664</color>
     <color name="colorBtnText">#eaeaea</color>
+    <color name="expenseColor">#4a90e2</color>
+    <color name="incomeColor">#7ed321</color>
+    <color name="dividerColor">#f2f2f2</color>
+
 </resources>
